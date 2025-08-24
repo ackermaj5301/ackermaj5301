@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Joey Ackerman-Lowery
 
-<!--
-**ackermaj5301/ackermaj5301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dual-major student in **Cloud Management** and **Computer Programming** (expected graduation: Spring 2026).  
+I’m passionate about learning how technology can solve real-world problems while building strong foundations in programming and cloud services.
 
-Here are some ideas to get you started:
+## Currently Learning
+- AI Fundamentals  
+- Java programming projects  
+- AWS services and database design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My "Foo"
+When I’m not coding, I’m a **pool-care enthusiast** who enjoys balancing water chemistry and helping family and friends maintain their pools.
+
+## How to Reach Me
+- GitHub: [ackermaj5301](https://github.com/ackermaj5301)
+
+## Fun Fact
+I once managed an **18-foot above-ground pool** that held over 6,000 gallons of water!
