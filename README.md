@@ -8,7 +8,11 @@ I focus on building secure, practical, and user-friendly applications while cont
 
 ## Professional Background
 
-My experience combines military communications, cybersecurity education, and hands-on development projects. As a former Signal Support Systems Specialist, I developed strong technical troubleshooting, networking, and systems management skills that continue to shape how I approach technology today.
+My experience combines military communications, cybersecurity education, and hands-on development projects.
+
+During my service in the National Guard, I supported operations at the Arizona State Emergency Operations Center during the COVID-19 response. In this role, I worked with virtualized environments using VMware, assisted with server load balancing, and supported critical systems to ensure reliability during high-demand operations. I also managed Google account provisioning and deprovisioning, along with password resets and basic user support, helping maintain secure and efficient access for personnel.
+
+As a former Signal Support Systems Specialist, I developed strong technical troubleshooting, networking, and systems management skills that continue to shape how I approach technology today.
 
 I bring a disciplined, problem-solving mindset to every project and prioritize reliability, organization, and real-world usability.
 
@@ -25,6 +29,10 @@ I bring a disciplined, problem-solving mindset to every project and prioritize r
 
 **Systems & Cloud**
 - Linux (preferred working environment)
+- Active Directory (user management, permissions, administration)
+- VMware (virtual machines, system environments)
+- Server load balancing concepts and support
+- Google Workspace account administration (user provisioning, deprovisioning, password resets)
 - Cloud fundamentals and deployment concepts
 - Networking and system configuration
 
