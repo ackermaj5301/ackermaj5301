@@ -74,5 +74,5 @@ A Flask and SQLite web application designed to help students manage financial ai
 ## Connect With Me
 
 - GitHub: https://github.com/ackermaj5301
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/joey-ackerman-lowery-114a23102
 
