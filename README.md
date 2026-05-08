@@ -1,4 +1,8 @@
 # Hi, I’m Joey Ackerman-Lowery 👋
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20Development-black)
+![AI](https://img.shields.io/badge/Generative%20AI-LLM%20Workflows-green)
+![Military Veteran](https://img.shields.io/badge/U.S.%20Army-Veteran-darkgreen)
 
 Information Technology student, U.S. military veteran, and aspiring software developer with experience in cybersecurity, cloud technologies, full-stack web development, and AI-assisted workflows. I earned an Associate in Applied Science (A.A.S.) in Information Technology — Systems Security & Analysis in May 2024 and will graduate in May 2026 with additional associate degrees in Computer Programming and Cloud Management.
 
