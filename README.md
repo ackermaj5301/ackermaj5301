@@ -1,124 +1,140 @@
 # Hi, I’m Joey Ackerman-Lowery 👋
 
-I am a U.S. military veteran and Information Technology professional with a background in cybersecurity, cloud management, and software development. I hold an Associate in Applied Science (A.A.S.) in Information Technology – Systems Security and Analysis and will graduate in May 2026 with additional associate degrees in Computer Programming and Cloud Management.
+Information Technology student, U.S. military veteran, and aspiring software developer with experience in cybersecurity, cloud technologies, full-stack web development, and AI-assisted workflows. I earned an Associate in Applied Science (A.A.S.) in Information Technology — Systems Security & Analysis in May 2024 and will graduate in May 2026 with additional associate degrees in Computer Programming and Cloud Management.
 
-I focus on building secure, practical, and user-friendly applications while continuing to grow my skills in programming, cloud technologies, and system design. I especially enjoy working in Linux environments and developing in Visual Studio Code.
-
----
-
-## Professional Background
-
-My experience combines military communications, cybersecurity education, and hands-on development.
-
-During my service in the Army, I supported operations at the Arizona State Emergency Operations Center during the COVID-19 response. I worked with virtualized environments using VMware, assisted with server load balancing, and supported critical systems to ensure reliability during high-demand operations. I also managed Google account provisioning and deprovisioning, along with password resets and user support.
-
-As a former Signal Support Systems Specialist, I developed strong troubleshooting, networking, and systems management skills that continue to shape how I approach technology today.
+I enjoy building practical, user-focused applications while continuing to grow my skills in software development, cloud technologies, Linux environments, and educational technology. I am especially interested in generative AI, web development, and creating tools that improve accessibility and student success.
 
 ---
 
-## Experience
+# Technical Interests
 
-### IT Technical Support — Arizona Department of Emergency and Military Affairs  
+- Full-Stack Web Development
+- Generative AI & AI-Assisted Development
+- Educational Technology
+- Cloud Computing
+- Cybersecurity & Secure System Design
+- Linux Environments
+- Database Design & Application Development
+
+---
+
+# Technical Skills
+
+## Programming & Development
+- Python
+- Java
+- SQL
+- HTML / CSS
+- Flask
+- Streamlit
+- Git & GitHub
+- Visual Studio Code
+
+## AI & Development Workflows
+- Generative AI Assisted Development
+- Prompt Engineering
+- AI-Assisted Debugging & Research
+- LLM Workflow Integration
+
+## Systems & Cloud
+- Linux
+- AWS Fundamentals
+- Microsoft Azure Fundamentals
+- VMware
+- Active Directory
+- Google Workspace Administration
+- Networking Fundamentals
+
+## Databases & Data
+- SQLite
+- Database Design
+- CRUD Operations
+- Data Organization & Persistence
+
+---
+
+# Featured Projects
+
+## BAG Financial Manager
+Flask Full-Stack Financial Web Application
+
+BAG Financial Manager is a Flask and SQLite web application designed to help students manage semester-based finances by organizing income, expenses, budgets, and transactions in one centralized platform.
+
+### My Contributions
+- Developed core application structure and functionality
+- Built Dashboard, Funding, Transactions, and Semester management features
+- Implemented persistent database integration using SQLite
+- Improved code organization through modularization
+- Used generative AI tools and LLMs to support debugging, troubleshooting, and development workflows
+- Assisted with GitHub version control and collaborative project development
+- Created demo/testing environments for presentations and feature validation
+
+🔗 Repository: https://github.com/CAPSTONE-Team-G0/BAG
+
+---
+
+## Degree Certification Checker
+Streamlit Academic Eligibility Application
+
+Interactive Streamlit application designed to evaluate student eligibility for certificates and diplomas by processing course completion data.
+
+### Contributions
+- Developed application logic using Python
+- Built interactive user interface using Streamlit
+- Implemented academic requirement validation workflows
+- Improved usability and debugging processes
+- Assisted with executable packaging and project presentation
+
+---
+
+# Professional Background
+
+## IT Technical Support — Arizona Department of Emergency and Military Affairs
 **Phoenix, AZ | 2020–2021**
 
-- Provided IT support for the State Emergency Operations Center during COVID-19, supporting 11 state agencies  
-- Assisted 100+ users via live chat, phone, and web conferencing  
-- Managed 60+ support tickets per week related to WebEOC and Google Workspace  
-- Maintained and supported 50+ computer systems to ensure continuous operation  
-- Managed Google account creation, deletion, and password resets  
-- Used VMware vSphere to assist with server load balancing during high-demand usage  
-- Utilized Active Directory for user management and access control  
-- Created documentation and training materials for onboarding and system use  
+- Provided IT support for the Arizona State Emergency Operations Center during COVID-19 operations
+- Assisted users through live chat, phone, and remote support workflows
+- Supported Google Workspace account management and user troubleshooting
+- Worked with VMware vSphere and virtualized environments
+- Assisted with server load balancing and operational system reliability
+- Utilized Active Directory for user and access management
 
 ---
 
-### Signal Support Systems Specialist — Arizona National Guard  
+## Signal Support Systems Specialist — Arizona National Guard
 **2019–2021**
 
-- Provided technical support for 200+ systems, including networks and communication equipment  
-- Maintained and troubleshot local area networks and system devices  
-- Supported emergency response IT operations and infrastructure  
-- Assisted in system setup, maintenance, and operational readiness  
+- Maintained and troubleshot communication systems and network equipment
+- Supported emergency response technology operations
+- Assisted with technical support, system setup, and infrastructure readiness
 
 ---
 
-### Signal Support Systems Specialist — U.S. Army  
+## Signal Support Systems Specialist — U.S. Army
 **2015–2019**
 
-- Maintained communication systems and equipment for battalion-level operations  
-- Managed COMSEC materials with zero loss accountability  
-- Led and trained team members on system operations and troubleshooting  
-- Developed a Standard Operating Procedure (SOP) that reduced system testing time from one week to three days  
-- Provided help desk support and resolved technical issues using ticketing systems  
+- Maintained battalion-level communication systems and equipment
+- Managed COMSEC materials with zero-loss accountability
+- Developed troubleshooting and systems management skills
+- Led and trained team members on technical procedures and operations
+- Created process improvements that reduced system testing time
 
 ---
 
-## Technical Skills
+# Currently Growing In
 
-**Programming & Development**
-- Java  
-- Python  
-- HTML / CSS  
-- Flask & Streamlit applications  
-- Visual Studio Code (primary development environment)  
-
-**Systems & Cloud**
-- Linux (preferred environment)  
-- Active Directory (user management, permissions, administration)  
-- VMware (virtual machines, system environments)  
-- Server load balancing support  
-- Google Workspace administration (account lifecycle management)  
-- Cloud fundamentals and deployment concepts  
-- Networking and system configuration  
-
-**Databases**
-- SQLite  
-- Data organization and structure  
-- CRUD operations  
-
-**Security**
-- Systems security principles  
-- Risk awareness and secure design thinking  
+- AI & LLM Integration
+- API Integration
+- Cloud Architecture
+- Full-Stack Development
+- Software Design & Scalability
+- Collaborative Development Workflows
+- Educational Technology
 
 ---
 
-## Featured Project
-
-### BAG — Semester-Based Financial Pacing App
-
-A Flask and SQLite web application designed to help students manage financial aid, track expenses, and monitor spending throughout a semester.
-
-**My Contributions:**
-- Built the initial version of the application  
-- Developed Dashboard, Semesters, Transactions, and Funding features  
-- Implemented edit/delete functionality  
-- Improved data organization and usability  
-- Ensured smooth integration between front-end and back-end  
-
----
-
-## Currently Growing In
-
-- Cloud architecture and deployment  
-- Full-stack development  
-- Advanced programming concepts  
-- Version control and team collaboration  
-- Applying cybersecurity principles in development environments  
-
----
-
-## Strengths
-
-- Problem-solving and troubleshooting  
-- Attention to detail  
-- Front-end and back-end integration  
-- Adaptability and continuous learning  
-- Leadership and teamwork from military experience  
-
----
-
-## Connect With Me
+# Connect With Me
 
 - GitHub: https://github.com/ackermaj5301
-- LinkedIn: www.linkedin.com/in/joey-ackerman-lowery-114a23102
+- LinkedIn: https://www.linkedin.com/in/joey-ackerman-lowery-114a23102
 
